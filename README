@@ -1,0 +1,5 @@
+Very simple caching image proxy.
+
+Used by visiting
+
+http://<site>/i/http://site.of/image/you/want/to/proxy
