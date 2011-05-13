@@ -1,0 +1,3 @@
+DefaultType application/x-httpd-php
+AddType application/x-httpd-php .html
+
